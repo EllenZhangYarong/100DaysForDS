@@ -1,0 +1,5 @@
+^Profit = 5.04e+04 + 0.808*RDSpend - 0.0236*Administration + 0.0264*MarketingSpend - 1.33e+03*NewYork
+         (6.65e+03) (0.0457)        (0.0519)                (0.0167)                (2.69e+03)
+
+n = 50, R-squared = 0.951 
+(standard errors in parentheses)

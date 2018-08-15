@@ -1,0 +1,5 @@
+^Profit = 4.70e+04 + 0.797*RDSpend + 0.0299*MarketingSpend
+         (2.69e+03) (0.0413)        (0.0155)
+
+n = 50, R-squared = 0.950 
+(standard errors in parentheses)
