@@ -5,5 +5,5 @@
 
 ## 2018-08-25
 
-![pic of Udacity Bertelsmann Schoolarship Badge](images/BertelsmannBadge.jpeg)
-![pic of Phase 2](images/Bertleman.jpeg)
+1. ![pic of Udacity Bertelsmann Schoolarship Badge](images/BertelsmannBadge.jpeg)
+2. ![pic of Phase 2](images/Bertleman.jpeg)
